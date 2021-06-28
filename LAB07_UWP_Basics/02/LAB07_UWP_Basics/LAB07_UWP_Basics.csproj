@@ -137,7 +137,6 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
-    <None Include="LAB07_UWP_Basics_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Cubemap_Grandcanyon.dds">
