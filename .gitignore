@@ -69,3 +69,4 @@
 packages/
 bin/
 obj/
+*.pfx
